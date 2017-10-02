@@ -1,0 +1,24 @@
+{
+  "name": "port-map",
+  "version": "1.0.0",
+  "description": "Forward local ports to anywhere, transparently.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tdb-alcorn/port-map.git"
+  },
+  "keywords": [
+    "port",
+    "map",
+    "forward",
+    "local"
+  ],
+  "author": "Thomas Alcorn <tdb.alcorn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
+}
